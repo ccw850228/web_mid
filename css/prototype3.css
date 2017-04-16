@@ -234,7 +234,7 @@ select{
 }
 
 .itemdes:hover{
-	background:#C9D4DC;
+	background:#f6f5ff;
 }
 
 
@@ -261,7 +261,19 @@ select{
 }
 
 
+.page{
+	
+	clear:both;
+	height: 50px;
+	width: 935px;
+	margin: 0 auto;
+	
+}
+
+
 .page a{
+	display: block;	
+	margin: 0 auto;
 	float:left;
 	margin-right: 5px;
 	text-decoration: none;
@@ -274,6 +286,12 @@ select{
 	background:#44687F;
 	color:white;
 }
+.pagecon{
+	width: 300px;
+	float: center;
+	margin: 0 auto;
+	padding-top: 10px;
+}
 
 .footer{
 	height: 30px;
@@ -284,6 +302,7 @@ select{
 	background: #CCE2D7;
 	margin-bottom: 10px;
 	text-align: center;
+	margin-top: 30px;
 
 }
 .link{
@@ -299,15 +318,16 @@ select{
 	margin-right: 30px;
 	float: left;
 	display: block;
-	color:#468A69;
+	color:#227700;
 	padding: 5px;
+	
 
 
 }
 
 .footer a:hover{
-	background: #44687F;
-	color:#95AAB8;
+	background:#008080;
+	color:#FFF;
 }
 
 .mark p{
