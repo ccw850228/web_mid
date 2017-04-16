@@ -261,7 +261,19 @@ select{
 }
 
 
+.page{
+	
+	clear:both;
+	height: 50px;
+	width: 935px;
+	margin: 0 auto;
+	
+}
+
+
 .page a{
+	display: block;	
+	margin: 0 auto;
 	float:left;
 	margin-right: 5px;
 	text-decoration: none;
@@ -273,6 +285,12 @@ select{
 .page a:hover{
 	background:#44687F;
 	color:white;
+}
+.pagecon{
+	width: 300px;
+	float: center;
+	margin: 0 auto;
+	padding-top: 10px;
 }
 
 .footer{
