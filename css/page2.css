@@ -575,7 +575,7 @@ div.tab button.active {
 
 .Qs p, .As p{
 	display: block;
-	width: 600px;
+	width: 700px;
 	float: left;
 
 }
@@ -610,4 +610,46 @@ div.tab button.active {
 	float: center;
 	margin: 0 auto;
 	padding-top: 10px;
+}
+.comm{
+	overflow: auto;
+	width: 850px;
+	margin: 0 auto;
+
+}
+.comm .text{
+	width: 800px;
+	height: 100px;
+	float: left;
+	margin: 10px auto;
+	 line-height: 2em;
+}
+.comm span{
+	display: block;
+	width: 850px;
+	float: left;
+	margin: 10px auto;
+
+
+}
+.comm .sub{
+	float:left;
+	width: 100px;
+	padding:5px;
+}
+
+#commer{
+	width: 600px;
+	float: left;
+}
+.commstar{
+	float: left;
+	margin-top: 10px;
+}
+
+#anstime2{
+	display: block;	
+	width: 300px;
+	float: left;
+ 
 }
